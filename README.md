@@ -8,7 +8,7 @@ Backend em **Java + Spring Boot**, front-end em **TypeScript**.
 
 ### [livro-da-guilda](https://github.com/EliasCamposDEV/livro-da-guilda) · [demo](https://livro-da-guilda.onrender.com/swagger-ui.html)
 
-API REST de usuários em Java 21, Spring Boot 3.5 e MongoDB. JWT com **refresh token rotativo** (reúso é recusado), RBAC (`ADMIN`/`USER`), erros em `application/problem+json` com `code`, rate limit no login, troca de senha e logout que revogam sessões, Swagger com Authorize, Docker Compose e CI rodando `mvn verify` com SpotBugs e **32 testes** (25 de integração + 7 unitários). Demo pública somente leitura.
+API REST de usuários em Java 21, Spring Boot 3.5 e MongoDB. JWT com **refresh token rotativo** (reúso é recusado), RBAC (`ADMIN`/`USER`), erros em `application/problem+json` com `code`, rate limit no login, troca de senha e logout que revogam sessões, Swagger com Authorize, Docker Compose e CI rodando `mvn verify` com SpotBugs e **56 testes**. Demo pública somente leitura.
 
 ### [extrato-falado](https://github.com/EliasCamposDEV/extrato-falado) · [demo](https://extrato-falado.onrender.com)
 
